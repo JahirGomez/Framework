@@ -1,0 +1,37 @@
+{
+"Functions" : [
+{
+    "TransaccionName" : "UsrValidate",
+    "Control" : "aplication.demo.controller.LoginCtrl",
+    "Model" : "aplication.demo.model.LoginCtrl",
+    "View" : "aplication.demo.view.LoginCtrl",
+    "Funcion" : "ValidarUsr"
+},
+
+{
+    "TransaccionName" : "ValidatePassword",
+    "Control" : "aplication.demo.controller.PswValidator",
+    "Model" : "aplication.demo.model.PswValidator",
+    "View" : "aplication.demo.view.PswValidator",
+    "Funcion" : "ValidarPsw"
+},
+
+{
+    "TransaccionName" : "ConnectDatabase",
+    "Control" : "aplication.demo.controller.LoginCtrl",
+    "Model" : "aplication.demo.model.DAO",
+    "View" : "aplication.demo.view.LoginCtrl",
+    "Funcion" : "ConnectDB"
+},
+
+{
+    "TransaccionName" : "ValidateNewData",
+    "Control" : "aplication.demo.controller.NewDataCtrl",
+    "Model" : "aplication.demo.model.DataValidator",
+    "View" : "aplication.demo.view.NewDataView",
+    "Funcion" : "ValidarNewData"
+}
+]
+}
+
+
