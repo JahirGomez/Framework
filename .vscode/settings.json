@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/files/commons-dbcp2-2.6.0.jar",
+        "src/files/commons-logging-1.2.jar",
+        "src/files/commons-pool2-2.6.2.jar",
+        "src/files/json-20090211_1.jar",
+        "src/files/mysql-connector-java-8.0.16.jar"
+    ]
+}

@@ -1,0 +1,6 @@
+dic. 07, 2022 9:37:17 A. M. util.LogManager addLog
+GRAVE: Hola Mundo
+dic. 07, 2022 9:37:17 A. M. util.LogManager addLog
+ADVERTENCIA: Hello World
+dic. 07, 2022 9:37:17 A. M. util.LogManager addLog
+INFORMACIÓN: no sé más idiomas, profe:c
